@@ -1,0 +1,5 @@
+InvoiceNumber,Item,Amount,Tax,Total,Currency,Date
+521418,"Concierge Services",77562,15512.4,93074.4,USD,2017-09-01
+963848,"Concierge Services",135776,27155.2,162931,CAD,2017-09-16
+838514,"Professional Services",187514,37502.8,225017,EUR,2017-09-22
+590118,"Concierge Services",229955,45991,275946,CAD,2017-09-24
